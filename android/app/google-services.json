@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1093435647429",
+    "firebase_url": "https://pokerchess-5bb3a-default-rtdb.firebaseio.com",
+    "project_id": "pokerchess-5bb3a",
+    "storage_bucket": "pokerchess-5bb3a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093435647429:android:8e6e32890191824b9817ac",
+        "android_client_info": {
+          "package_name": "com.example.exma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1093435647429-ier2kf7p2icv2vstas6pbgeogo9mji9r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.exma",
+            "certificate_hash": "7f89e6a28830d1cd7a23428d4191abbde4ebb9a4"
+          }
+        },
+        {
+          "client_id": "1093435647429-j4e9vlho68ac6hj4g7dd6281bo1f8ab4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7iQ6hA0BmmwpCO14yL6CBwMTZFmdN7Eo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1093435647429-j4e9vlho68ac6hj4g7dd6281bo1f8ab4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1093435647429-o51ljb2bncttjv46o305bdnivnhm53av.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.exma"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
