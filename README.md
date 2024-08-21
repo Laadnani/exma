@@ -1,6 +1,6 @@
 # exma
 
-A new Flutter project.
+a chess games with a poker twist
 
 ## Getting Started
 
